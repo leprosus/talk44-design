@@ -8,3 +8,4 @@ Main idea of the project is to build a socially popular application for Android,
 
 - [Idea](https://github.com/leprosus/talk44-design/blob/master/idea.md)
 - [Domains](https://github.com/leprosus/talk44-design/blob/master/domains.md)
+- [Feasibility study](https://github.com/leprosus/talk44-design/blob/master/feasibility-study.md)
